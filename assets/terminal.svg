@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 374" width="900" height="374" role="img" aria-label="Terminal: whoami">
+<style>text{font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}</style>
+<defs><linearGradient id="pg" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="900" height="374" rx="14" fill="#0b1020" stroke="#334155"/>
+<rect width="900" height="38" rx="14" fill="#111827"/><rect y="24" width="900" height="14" fill="#111827"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text x="450" y="24" fill="#64748b" text-anchor="middle" style="font-size:12px">~/aayushdebugging — zsh</text>
+<rect width="0" height="0"><animate id="L" attributeName="width" from="0" to="1" dur="20s" begin="0s;L.end"/></rect>
+<g opacity="0"><set attributeName="opacity" to="1" begin="L.begin+0.60s"/><set attributeName="opacity" to="0" begin="L.begin"/>
+  <text x="28" y="78" fill="#4ade80" textLength="160" lengthAdjust="spacingAndGlyphs">aayush@bengaluru:~$</text>
+  <clipPath id="c0"><rect x="196.0" y="60" height="24" width="0"><animate attributeName="width" from="0" to="50" dur="0.56s" begin="L.begin+0.90s" fill="freeze" calcMode="discrete" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4"/><set attributeName="width" to="0" begin="L.begin"/></rect></clipPath>
+  <text x="196.0" y="78" fill="#f8fafc" textLength="50" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">whoami</text></g>
+<text x="28" y="104" fill="#e2e8f0" opacity="0" textLength="546" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aayush Kumar — AI engineer. I turn research into running systems.<set attributeName="opacity" to="1" begin="L.begin+1.71s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="L.begin+1.83s"/><set attributeName="opacity" to="0" begin="L.begin"/>
+  <text x="28" y="130" fill="#4ade80" textLength="160" lengthAdjust="spacingAndGlyphs">aayush@bengaluru:~$</text>
+  <clipPath id="c2"><rect x="196.0" y="112" height="24" width="0"><animate attributeName="width" from="0" to="101" dur="0.92s" begin="L.begin+2.13s" fill="freeze" calcMode="discrete" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8"/><set attributeName="width" to="0" begin="L.begin"/></rect></clipPath>
+  <text x="196.0" y="130" fill="#f8fafc" textLength="101" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">cat now.json</text></g>
+<text x="28" y="156" fill="#94a3b8" opacity="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">{<set attributeName="opacity" to="1" begin="L.begin+3.30s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<text x="28" y="182" fill="#fde68a" opacity="0" textLength="504" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  "building":  ["voice agents", "LLM infra", "search SaaS"],<set attributeName="opacity" to="1" begin="L.begin+3.42s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<text x="28" y="208" fill="#a7f3d0" opacity="0" textLength="412" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  "obsessed":  "latency, evals, cache-hit rates",<set attributeName="opacity" to="1" begin="L.begin+3.54s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<text x="28" y="234" fill="#f9a8d4" opacity="0" textLength="210" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  "status":    "shipping"<set attributeName="opacity" to="1" begin="L.begin+3.66s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<text x="28" y="260" fill="#94a3b8" opacity="0" textLength="8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}<set attributeName="opacity" to="1" begin="L.begin+3.78s"/><set attributeName="opacity" to="0" begin="L.begin"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="L.begin+3.90s"/><set attributeName="opacity" to="0" begin="L.begin"/>
+  <text x="28" y="286" fill="#4ade80" textLength="160" lengthAdjust="spacingAndGlyphs">aayush@bengaluru:~$</text>
+  <clipPath id="c8"><rect x="196.0" y="268" height="24" width="0"><animate attributeName="width" from="0" to="151" dur="1.28s" begin="L.begin+4.20s" fill="freeze" calcMode="discrete" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2"/><set attributeName="width" to="0" begin="L.begin"/></rect></clipPath>
+  <text x="196.0" y="286" fill="#f8fafc" textLength="151" lengthAdjust="spacingAndGlyphs" clip-path="url(#c8)">./deploy --to=prod</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="L.begin+5.73s"/><set attributeName="opacity" to="0" begin="L.begin"/>
+  <rect x="28" y="298" width="300" height="16" rx="3" fill="#1e293b"/>
+  <rect x="28" y="298" width="0" height="16" rx="3" fill="url(#pg)"><animate attributeName="width" values="0;105.0;120.0;255.0;300" keyTimes="0;0.3;0.5;0.8;1" dur="2.2s" begin="L.begin+5.73s" fill="freeze"/><set attributeName="width" to="0" begin="L.begin"/></rect>
+  <text x="344" y="312" fill="#4ade80" opacity="0">✓ shipped. 0 errors. 0 regrets.<set attributeName="opacity" to="1" begin="L.begin+8.03s"/><set attributeName="opacity" to="0" begin="L.begin"/></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="L.begin+8.33s"/><set attributeName="opacity" to="0" begin="L.begin"/>
+  <text x="28" y="338" fill="#4ade80">aayush@bengaluru:~$</text>
+  <rect x="196.0" y="324" width="9" height="18" fill="#f8fafc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>

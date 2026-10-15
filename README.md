@@ -1,37 +1,60 @@
-# 💫 About Me:
-👋 Hi, I'm Aayush Kumar – a tech-driven problem solver passionate about AI, backend engineering, and smart automation.
+<div align="center">
 
-🚀 Recently, I’ve been working on:
+<img src="assets/hero.svg" width="100%" alt="Aayush Kumar — AI Engineer"/>
 
-🔍 Building production-ready RAG pipelines using LangChain, Qdrant, and Hugging Face models
+<a href="https://aayush-portfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio"/></a>
+<a href="https://github.com/aayushdebugging?tab=repositories"><img src="https://img.shields.io/badge/repos-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Repos"/></a>
+<img src="https://komarev.com/ghpvc/?username=aayushdebugging&style=for-the-badge&color=7c3aed&label=VISITORS" alt="Visitors"/>
 
-🤖 Deploying LLM-based chatbots, captcha solvers, and Parseq models with TorchServe
+<br/><br/>
 
-📈 Developing real-time trading bots using SAC and technical indicators with the Roostoo API
+<img src="assets/terminal.svg" width="88%" alt="whoami"/>
 
-🧠 Researching interpretability in LSTM-based time series models with LLM explanations for paper submission
+</div>
 
-🎙️ Prototyping personalized voice cloning systems and 3D model generation tools using Shap-E
+<br/>
 
-💡 I'm also actively exploring DevOps, secure database architectures, and generative AI applications.
+<h2 align="center">⟡ things I've built ⟡</h2>
 
-📚 When I'm not coding, I enjoy reading research papers, experimenting with new AI models, and contributing to side projects.
+<div align="center">
+<a href="https://github.com/aayushdebugging/claude-voice"><img src="assets/card-0.svg" width="49%" alt="claude-voice"/></a>
+<img src="assets/card-1.svg" width="49%" alt="findall.si"/>
+<img src="assets/card-2.svg" width="49%" alt="ReachMeNow"/>
+<img src="assets/card-3.svg" width="49%" alt="LLM infra"/>
+</div>
 
-🤝 Open to collaborations, freelance opportunities, or just nerding out over deep tech.
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aayushdebugging&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayushdebugging&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushdebugging&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">⟡ the toolbox ⟡</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayushdebugging&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,fastapi,django,nodejs,nestjs,react,nextjs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,gcp,vercel,linux,git&theme=dark" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details align="center">
+<summary><b>🧪 the AI side (click)</b></summary>
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=aayushdebugging&icon=0&color=3)](https://visitcount.itsvg.in)
+`LangChain` · `LangGraph` · `Qdrant` · `Hugging Face` · `TorchServe` · `RAG` · `agentic workflows` · `STT / TTS` · `voice cloning` · `RL trading (SAC)` · `LLM evals`
 
+</details>
+
+<br/>
+
+<h2 align="center">⟡ eating my contribution graph ⟡</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushdebugging/aayushdebugging/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushdebugging/aayushdebugging/output/snake-light.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/aayushdebugging/aayushdebugging/output/snake-dark.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aayushdebugging&theme=transparent&hide_border=true&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=A78BFA&sideNums=A78BFA&dates=64748B" width="80%" alt="streak"/>
+</p>
+
+<img src="assets/footer.svg" width="100%"/>

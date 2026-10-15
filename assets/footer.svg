@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+<style>.w{animation:w 6s ease-in-out infinite alternate} .w2{animation:w 9s ease-in-out infinite alternate-reverse}
+@keyframes w{from{transform:translateX(0)}to{transform:translateX(-300px)}}
+text{font:600 14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:6px}</style>
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<path class="w2" fill="url(#f)" opacity=".35" d="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 T1500 70 V120 H0Z"/>
+<path class="w" fill="url(#f)" opacity=".7" d="M0 85 Q150 55 300 85 T600 85 T900 85 T1200 85 T1500 85 V120 H0Z"/>
+<text x="600" y="30" text-anchor="middle" fill="#a78bfa">THANKS FOR SCROLLING · NOW GO SHIP SOMETHING</text>
+</svg>
